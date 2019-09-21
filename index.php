@@ -5,4 +5,5 @@
     echo "dit is text na v3";
     echo "dit is text na v4";
     echo "dit is text na v5";
+    echo "dit is text na v6";
 ?>
